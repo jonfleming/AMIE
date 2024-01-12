@@ -1,0 +1,6 @@
+display_name: GeekChat
+msix_version: 0.0.1.1
+publisher_display_name: GeekChat
+identity_name: com.macgeeker.geekchat
+capabilities: internetClient, location
+install_certificate: 'false'
